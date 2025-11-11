@@ -1,11 +1,12 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "main": "server.ts",
+  "main": "dist/routes/chat.js",
   "license": "MIT",
   "scripts": {
-    "dev": "ts-node-dev server.ts",
-    "start": "ts-node routes/chat.ts"
+    "dev": "ts-node-dev routes/chat.ts",
+    "build": "tsc",
+    "start": "node dist/routes/chat.js"
   },
   "dependencies": {
     "axios": "^1.12.2",
