@@ -291,7 +291,7 @@ export function MainInterface({
 
             {/* LinkedIn */}
             <a
-              href="https://www.linkedin.com/in/hrishikeshsuchindra"
+              href="https://linkedin.com/in/hrishikesh-suchindra-a3050725a"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 transition-all breathe-hover"
@@ -327,7 +327,7 @@ export function MainInterface({
 
             {/* Instagram */}
             <a
-              href="https://www.instagram.com/hrishikeshsuchindra"
+              href="https://www.instagram.com/hrishikesh_suchindra"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 transition-all breathe-hover"
